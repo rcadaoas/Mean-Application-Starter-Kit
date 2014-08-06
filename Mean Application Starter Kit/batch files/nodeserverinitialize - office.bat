@@ -1,0 +1,1 @@
+START cmd.exe /k "cd C:\Users\romeo.cadaoas\Documents\GitHub\Mean-Application-Starter-Kit\Mean Application Starter Kit & node server.js"
